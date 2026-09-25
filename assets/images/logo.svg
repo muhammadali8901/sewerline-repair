@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 60" width="320" height="60">
+  <defs>
+    <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#12304A"/>
+      <stop offset="100%" stop-color="#1769AA"/>
+    </linearGradient>
+  </defs>
+  <!-- Icon Mark -->
+  <g transform="translate(6, 6)">
+    <rect width="48" height="48" rx="10" fill="url(#logoGrad)"/>
+    <!-- Sewer Pipe Graphics -->
+    <path d="M12 18 H20 V26 H36 V34 H12 Z" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="28" cy="22" r="3" fill="#E67E22"/>
+    <path d="M28 15 C28 15 33 20 33 23 C33 25.8 30.8 28 28 28 C25.2 28 23 25.8 23 23 C23 20 28 15 28 15 Z" fill="#E67E22"/>
+  </g>
+  <!-- Text Mark -->
+  <text x="64" y="27" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="800" fill="#12304A" letter-spacing="-0.3">SOUTHAVEN</text>
+  <text x="64" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#1769AA" letter-spacing="0.8">SEWER LINE REPAIR</text>
+</svg>

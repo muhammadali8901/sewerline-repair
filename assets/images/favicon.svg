@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="favGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#12304A"/>
+      <stop offset="100%" stop-color="#1769AA"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="10" fill="url(#favGrad)"/>
+  <!-- Pipe outline -->
+  <path d="M12 18 H20 V26 H36 V34 H12 Z" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Repair wrench / water drop / flow indicator -->
+  <circle cx="28" cy="22" r="3.5" fill="#E67E22"/>
+  <path d="M28 14 C28 14 34 20 34 24 C34 27.3 31.3 30 28 30 C24.7 30 22 27.3 22 24 C22 20 28 14 28 14 Z" fill="#E67E22" opacity="0.9"/>
+</svg>
