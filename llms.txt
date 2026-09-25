@@ -1,10 +1,11 @@
-﻿# Southaven Sewer Line Repair
+# Southaven Sewer Line Repair
 
 > Southaven Sewer Line Repair connects homeowners and commercial property owners in Southaven, Mississippi and DeSoto County with independent, licensed underground sewer specialists. The network provides emergency response, non-invasive video camera inspections, trenchless CIPP pipe lining, hydro jetting, root removal, and full sewer lateral replacements.
 
 ## Business & Contact Information
 - **Business Name:** Southaven Sewer Line Repair
 - **Website:** https://www.sewerlinerepairsouthaven.com/
+- **Address:** 7601 Southcrest Pkwy, Southaven, MS 38671
 - **Primary Telephone:** (662) 503-2280
 - **Primary Service Area:** Southaven, Mississippi and surrounding DeSoto County communities (ZIP codes 38671, 38672)
 - **Business Model:** Local Referral Network / Service-Area Business (SAB)
